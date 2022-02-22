@@ -1,0 +1,23 @@
+{
+  "name": "get-search-part",
+  "version": "1.0.1",
+  "description": "get part value by name from window.location.search",
+  "main": "get-search-part.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "part",
+    "location.search"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/get-search-part.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/get-search-part/issues"
+  },
+  "homepage": "https://github.com/adf0001/get-search-part#readme"
+}
